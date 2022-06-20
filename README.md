@@ -1,2 +1,3 @@
 # cardFour
-Practica maquetado
+Reto Frontend Mentor
+
